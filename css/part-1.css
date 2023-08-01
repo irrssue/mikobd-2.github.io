@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+
+#part-1 {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 200px;
+}
+
+.part-1-heading {
+  max-width: 100%;
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 7rem;
+  word-spacing: 20px;
+  margin-bottom: 50px;
+  white-space: normal;
+  overflow: hidden;
+}
+
+
+.part-1-text {
+  font-family: "Pulpen Snowman";
+  font-weight: 500;
+  font-size: 2rem;
+  word-spacing: 5px;
+}
