@@ -2,14 +2,14 @@
 
 
 #part-1 {
-  margin-left: 150px;
+  margin-left: var(--main-page-l-r-margin-computer);
   margin-right: 150px;
-  margin-top: 200px;
+  margin-top: var(--main-page-l-r-margin-computer);
 }
 
 .part-1-heading {
   max-width: 100%;
-  font-family: "Caveat", cursive;
+  font-family: var(--part-1-heading);
   font-weight: 700;
   font-size: 7rem;
   word-spacing: 20px;
