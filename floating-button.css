@@ -1,0 +1,16 @@
+.floating-button {
+  display: none;
+  position: sticky;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.floating-button:hover {
+  opacity: 1;
+}

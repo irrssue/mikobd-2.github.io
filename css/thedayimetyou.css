@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+#the-day-i-met-you {
+}
+
+.thedayimetyou-heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 6rem;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+
+.thedayimetyou-img-div {
+  width: auto;
+  margin-top: 20px;
+}
+
+.thedayimetyou-img {
+  width: 100%;
+}
+
+.thedayimetyou-img-div figure figcaption {
+  text-align: right;
+}
+
+.thedayimetyou-text-div {
+  margin-top: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+
+.thedayimetyou-text {
+  font-family: 'Caveat', cursive;
+  font-size: 28px;
+  font-weight: 300;
+
+  word-spacing: 10px;
+}

@@ -12,6 +12,11 @@
   white-space: nowrap;
 }
 
+html {
+  scroll-behavior: smooth;
+  background: rgb(224, 224, 224);
+}
+
 :root {
   --part-1-heading: "Caveat", cursive;
   --heading-font: 'Playfair Display', serif;
