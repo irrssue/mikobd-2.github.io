@@ -1,0 +1,45 @@
+#alibaba-with-you {
+  margin-top: 220px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+#alibaba-with-you h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 6rem;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.alibaba-with-you-root {
+  display: flex;
+  flex-direction: row;
+}
+
+.alibaba-img {
+  margin: 20px;
+}
+
+.alibaba-us {
+  display: flex;
+  flex-direction: column;
+}
+
+.alibaba-text {
+  font-family: var(--normal-reading-text);
+  font-size: 20px;
+  font-weight: 500;
+  word-spacing: 4px;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.alibaba-scene-img {
+  height: auto;
+  width: 70%;
+  margin-top: 40px;
+  position: relative;
+  left: 15%;
+}
