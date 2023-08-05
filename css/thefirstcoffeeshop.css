@@ -1,0 +1,52 @@
+.coffee-shop-heading {
+  margin-top: 200px;
+  margin-left: 30px;
+
+  font-size: 6rem;
+  font-family: var(--heading-font);
+  font-weight: 500;
+}
+
+.coffee-shop-img {
+  width: 100%;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.coffee-shop-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.coffee-shop-body p {
+  font-family: var(--normal-reading-text);
+  font-size: 20px;
+  
+  display: flex;
+  align-items: center;
+  
+  margin: 40px;
+}
+
+.coffee-shop-body-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.coffee-shop-body-img img:first-child {
+  height: 300px;
+  width: auto;
+
+  position: absolute;
+  transform: rotate(20deg);
+  z-index: 2;
+  margin-right: 150px;
+
+}
+
+.coffee-shop-body-img img:last-child {
+  margin-left: 200px; 
+  transform: rotate(-20deg);
+}
