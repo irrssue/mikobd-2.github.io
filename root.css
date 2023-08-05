@@ -22,6 +22,8 @@ html {
   --heading-font: 'Playfair Display', serif;
   --normal-reading-text: 'Work Sans', sans-serif;
   --main-font-color: black
+}
 
-
+.color-text {
+  color: rgb(8, 134, 134);
 }

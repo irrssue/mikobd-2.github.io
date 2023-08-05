@@ -47,6 +47,7 @@
 }
 
 .coffee-shop-body-img img:last-child {
-  margin-left: 200px; 
+  margin-left: 100px; 
   transform: rotate(-20deg);
 }
+
