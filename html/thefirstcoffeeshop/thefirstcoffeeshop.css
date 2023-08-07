@@ -1,3 +1,18 @@
+#the-first-coffee-shop a {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
 .coffee-shop-heading {
   margin-left: 30px;
 
