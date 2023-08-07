@@ -2,6 +2,9 @@
 
 
 #the-day-i-met-you a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   font-size: 1.5rem;
   color: black;
