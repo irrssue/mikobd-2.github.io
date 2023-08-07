@@ -1,8 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 
 
-#the-day-i-met-you {
+#the-day-i-met-you a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+
 }
+
+
 
 .thedayimetyou-heading {
   font-family: 'Times New Roman', Times, serif;

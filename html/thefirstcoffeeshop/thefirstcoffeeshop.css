@@ -1,5 +1,4 @@
 .coffee-shop-heading {
-  margin-top: 200px;
   margin-left: 30px;
 
   font-size: 6rem;
@@ -10,7 +9,6 @@
 .coffee-shop-img {
   width: 100%;
   margin-bottom: 50px;
-  margin-top: 20px;
 }
 
 .coffee-shop-body {
@@ -25,7 +23,7 @@
   display: flex;
   align-items: center;
   
-  margin: 40px;
+  margin: 10px 40px;
 }
 
 .coffee-shop-body-img {
