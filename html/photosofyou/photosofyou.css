@@ -1,0 +1,39 @@
+.photosofyou-h1 {
+  text-align: center;
+  margin: 50px auto;
+}
+
+.mainbody {
+  display: flex;
+
+}
+
+.mainbody img {
+  width: 20%;
+  height: auto;
+  margin: auto;
+}
+
+.textbody {
+  width: 50%;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+  font-size: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.root a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+
+}
