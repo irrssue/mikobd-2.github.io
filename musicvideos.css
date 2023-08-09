@@ -30,8 +30,8 @@
 }
 
 .music-video {
-  width: 90%;
-  height: 90%;
+  width: 45%;
+  height: auto;
   padding: 30px;
   border-radius: 70px;
 }
