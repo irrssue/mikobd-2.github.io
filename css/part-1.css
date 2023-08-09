@@ -11,7 +11,7 @@
 }
 
 .part-1-heading {
-  font-family: var(--part-1-heading);
+  font-family: 'Caveat', cursive;
   font-size: 6rem;
   font-weight: bold;
   margin-bottom: 50px;
